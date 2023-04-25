@@ -24,8 +24,6 @@
 
 Adobe注册：Adobe-GenP ：https://github.com/cw2k/Adobe-GenP/releases
 
-卸载软件：iobit_uninstaller ：https://www.iobit.com/en/recommend/iu.php?name=iobit_uninstaller
-
 
 #### 浏览器
 
